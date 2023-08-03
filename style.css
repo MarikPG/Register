@@ -1,0 +1,56 @@
+body {
+    background-color: white;
+}
+
+.slider {
+    position: relative;
+    width: 680px;
+    margin: 50px auto;
+    box-shadow: 0 10px 20px −5px rgba(0, 0, 0, 0.75);
+}
+
+.switch {
+    justify-content: center;
+}
+
+.input1 {
+  margin: 0px;
+  color: rgb(15, 28, 44);
+  font-family: "Cera CY", Helvetica, Arial, sans-serif;
+  line-height: 5px;
+  display: block;
+  width: 250px;
+  padding: 8px;
+  background: rgb(255, 255, 255);
+  border: 1px solid rgb(216, 219, 226);
+  height: 24px;
+  border-radius: 12px;
+  font-size: 18px;
+  outline: none;
+}
+
+.a1 {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(131, 58, 224);
+  padding: 15px;
+  display: inline-block;
+  left: 50px;
+  line-height: 10px;
+  border-radius: 15px;
+  width: 240px;
+  text-align: center;
+}
+
+.kas {
+  width:80%;
+  height: 150%;
+  position: absolute;
+  left: 300px;
+}
+
+.a2 {
+  color:rgb(131, 58, 224);
+  text-decoration: none;
+  margin-left: 25px;
+}
